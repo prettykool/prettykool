@@ -19,9 +19,9 @@ Exactly what it says on the tin. This will be updated every now and then, FYI. N
 
 > Sorry, I'm too lazy to install Linux on my main machine. 
 
-- Browser: Chrome Canary
+- Browser: Brave stable
 
-> This one barely functions right, but I still like the fast pace of the updates.
+> Has the best adblocker on any browser, and it's built in! Also has better performance than most other browsers I've used. I formerly used Chrome Canary, still use it for certain tasks that don't run right on Brave.
 
 - IDE: VSCode
 
