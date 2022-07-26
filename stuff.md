@@ -10,9 +10,13 @@ Exactly what it says on the tin. This will be updated every now and then, FYI. N
 
     Bought this because I needed something to keep up with my bad torrenting habits. Will probably suffice for the next year, or so.
 
+- Corsair Scimitar RGB ULTRA
+   
+   This thing has 12(!) side-buttons. Map them to random stuff so I can use them whenever I want to. 
+
 - Logitech G012
 
-    I actually got this cheap thing in 2019(?) because the trackpad on my aforementioned previous laptop was in a beyond unusable state. Have kept with it since.
+    Backup mouse. I actually got this cheap thing in 2019(?) because the trackpad on my aforementioned previous laptop was in a beyond unusable state. Have kept with it since.
 
 ## Software
 - OS: Fedora Linux 
@@ -21,11 +25,11 @@ Exactly what it says on the tin. This will be updated every now and then, FYI. N
 
 - Browser: Chromium
     
-    I don't care how important keeping the 'web free' is; I will die before I ever have to use Firefox again. 
+    I don't care how important 'keeping the web free' is; I will die before I ever have to use Firefox again. 
 
 - Editor: Emacs
 
-    `C-x C-c`.
+    `C-x C-c`. GitHubs own code editor is also usable enough for me to deal with doing small patches within it. 
  
 - Terminal: Alacritty
 
