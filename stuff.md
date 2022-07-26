@@ -4,7 +4,7 @@ Exactly what it says on the tin. This will be updated every now and then, FYI. N
 ## Hardware
 - HP Enxy x360
 
-    Got this one earlier this year to replace a dying, broken laptop I was using for the past 5 or so years. Currently my main machine.
+    Got this one in January 2021 to replace a dying, broken laptop I was using for the past 5 or so years. Currently my main machine.
 
 - Seagate 4TB External HDD
 
